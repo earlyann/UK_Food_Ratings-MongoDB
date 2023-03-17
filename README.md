@@ -10,7 +10,9 @@ I started by importing the data provided in the establishments.json file to a Mo
 
 Next, I made the requested modifications to the establishments collection using update_one, update_many, and delete_many. I added information for a new halal restaurant in Greenwich, found and updated the BusinessTypeID for "Restaurant/Cafe/Canteen", removed establishments within the Dover Local Authority, and converted latitude and longitude to decimal numbers.
 
-Finally, I explored the dataset and answered specific questions for Eat Safe, Love using count_documents, find, regex, and aggregation pipelines. I found establishments with hygiene score equal to 20, London establishments with a RatingValue greater than or equal to 4, the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score and nearest to the new restaurant added, "Penang Flavours", and the number of establishments in each Local Authority area with a hygiene score of 0, sorted from highest to lowest and displayed the top ten local authority areas.
+Finally, I explored the dataset and answered specific questions for Eat Safe, Love using count_documents, find, regex, and aggregation pipelines. 
+
+Author: Lacey Morgan
 
 
 
