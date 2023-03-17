@@ -1,6 +1,6 @@
 ## Project Overview: 
 
-I was contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data provided by the UK Food Standards Agency. The goal was to help their journalists and food critics decide where to focus future articles.
+I acted as a contractor of a food magazine, Eat Safe, Love, to evaluate some of the ratings data provided by the UK Food Standards Agency. The goal was to help their journalists and food critics decide where to focus future articles.
 
 ### Technologies and Methods: 
 
