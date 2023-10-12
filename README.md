@@ -1,21 +1,14 @@
-## Project Overview: 
+## Project Overview
+Developed a data analysis solution for Eat Safe, Love, a food magazine, to evaluate restaurant ratings from the UK Food Standards Agency. The aim was to guide the magazine's editorial focus.
 
-I acted as a contractor of a food magazine, Eat Safe, Love, to evaluate some of the ratings data provided by the UK Food Standards Agency. The goal was to help their journalists and food critics decide where to focus future articles.
+### Tech Stack
+- MongoDB
+- PyMongo
+- Python/Pandas
 
-### Technologies and Methods: 
-
-I used PyMongo to interact with the MongoDB database and Pretty Print (pprint) to display the data in a readable format. I also used Pandas to convert query results to DataFrames.
-
-I started by importing the data provided in the establishments.json file to a MongoDB database named uk_food and a collection named establishments. I confirmed that the database and data were loaded correctly by listing the databases and collections in MongoDB, finding and displaying one document using find_one and pprint, and assigning the establishments collection to a variable.
-
-Next, I made the requested modifications to the establishments collection using update_one, update_many, and delete_many. I added information for a new halal restaurant in Greenwich, found and updated the BusinessTypeID for "Restaurant/Cafe/Canteen", removed establishments within the Dover Local Authority, and converted latitude and longitude to decimal numbers.
-
-Finally, I explored the dataset and answered specific questions for Eat Safe, Love using count_documents, find, regex, and aggregation pipelines. 
+### Key Actions
+- Imported and verified data into MongoDB.
+- Modified data to include new entries and update existing fields.
+- Conducted data analysis to answer specific queries for the magazine.
 
 Author: Lacey Morgan
-
-
-
-
-
-
