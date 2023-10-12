@@ -1,5 +1,5 @@
 ## Project Overview
-Developed a data analysis solution for Eat, Safe, Love, a food magazine, to evaluate restaurant ratings from the UK Food Standards Agency. The aim was to guide the magazine's editorial focus.
+Developed a data analysis solution for a food magazine, that evaluates restaurant ratings from the UK Food Standards Agency. The aim was to guide the magazine's editorial focus.
 
 ### Tech Stack
 - MongoDB
